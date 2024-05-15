@@ -1,0 +1,11 @@
+Rectangular dimensions:
+length 168000
+breadth 100000
+Objects and their dimensions ("Sqaure sidelength","circle radius")
+square 30000 
+square 40000
+square 50000
+square 20000
+circle 5000 
+circle 10000
+circle 15000
